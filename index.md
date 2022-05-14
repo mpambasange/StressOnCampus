@@ -1,3 +1,5 @@
+![StressOnCampus](https://user-images.githubusercontent.com/70272854/168430363-de6e3416-a647-4a50-b8a5-e501f0ef2d42.svg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mpambasange/StressOnCampus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -5,7 +7,6 @@ You can use the [editor on GitHub](https://github.com/mpambasange/StressOnCampus
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
