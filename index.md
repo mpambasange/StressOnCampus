@@ -1,10 +1,24 @@
 ![StressOnCampus](https://user-images.githubusercontent.com/70272854/168430363-de6e3416-a647-4a50-b8a5-e501f0ef2d42.svg)
 
-## Welcome to GitHub Pages
+## Seja bem vindo ao portal da app StressOnCampus
+
+Esta app foi desenvolvida no âmbito da dissertação de mestrado em Engenharia Biomédica no ano académico 2021/2022. 
 
 You can use the [editor on GitHub](https://github.com/mpambasange/StressOnCampus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Objectivos da dissertação
+
+## Organização do documento
+
+## Revisão da literatura
+
+## Desenvolvimento da app
+
+## Análise dos resultados
+
+## Principais Conclusões
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
